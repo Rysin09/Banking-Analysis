@@ -60,3 +60,20 @@ Developed in Power BI, the dashboard covers:
 
 > Refer to `BankingAnalysis.pdf` for exported visuals.
 
+
+---
+
+## Future Scope
+
+- Integrate predictive models to flag high-risk clients
+- Automate report generation using Python scripts
+- Deploy dashboard to a cloud BI platform for real-time updates
+
+---
+
+## Author
+
+Aryan Singh    
+
+
+
